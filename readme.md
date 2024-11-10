@@ -17,7 +17,7 @@
 
 
 # Acknowledgements : 
-    I extend my sincere gratitude to Suresh Balanethiram, Assistant Professor, Department of ECE, NITPY, for providing me with this opportunity. I am also deeply appreciative of the guidance and support from            Priyadarshni, Department of ECE, NITPY.
+    I extend my sincere gratitude to Dr. Suresh Balanethiram, Assistant Professor, Department of ECE, NITPY, for providing me with this opportunity. I am also deeply appreciative of the guidance and support from Priyadarshni, Research Scholar, Department of ECE, NITPY.
 
 
 
