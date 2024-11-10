@@ -6,7 +6,7 @@
 # Note  : 
     1. At some parts of the code "Ignore Nc" might be observed - but actually Tsi is ignored, Nc is taken into account and 
         it is not ignored anywhere.
-        Nc was ignored at inital stages to check the performance of the model without Nc, but later the approach is continued,
+        Nc was ignored at inital stages to check the performance of the model without Nc, but later the approach is discontinued,
         Nc is taken into account.
     2. Files greater than 30MB cannot be uploaded into the github - The same repository is also uploaded in the google drive 
         Drive link : 
